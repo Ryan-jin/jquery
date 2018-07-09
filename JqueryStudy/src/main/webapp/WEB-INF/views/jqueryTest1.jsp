@@ -97,7 +97,7 @@ $(document).ready(function(){
 </script>
 </head>
 <body>
-제이쿼리 테스트
+제이쿼리 테스트2
 <button id="btn1">show Text</button>
 <button id="btn2">show HTML</button>
 <button id="btn3">button</button>
